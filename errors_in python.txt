@@ -7,3 +7,8 @@ ERRORS:
 
 ->ValueError:when we try to cast some value into another type,but it not possible. \
         ex: converting
+
+->TypeError:range  expected    
+
+->Division by Zero Error : ex:56//0
+

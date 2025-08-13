@@ -7,6 +7,15 @@ what is pip3 and pythonic ?
 docx.python.org -> to learn python
 docx.oracle.com -> to learn java
 dev.mosilla     -> to learn html, css, js
+can we modify the list which is an element in an tuple?
+how to pass command line arguments into a my_range (function) ?
+why do argv[0] need  the file name ? what is the puprose and use?
+why there is no implicit typecasting in python ?
+
+
+
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------

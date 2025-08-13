@@ -1,0 +1,52 @@
+range function in Python:
+
+range(10)
+Start from 0 (default start value) and end with 9 (one before 10)
+
+range(2, 10)
+Start from 1 (user given start value) and end with 9 (one before 10)
+
+range(2, 100, 5)
+Start from 2 (user given start value) and end with 99 (one before 100) with user given increment/step of +5
+
+range(90, 10, -4)
+Start from 90 (user given start value) and end with 9 (one before 10) with user given increment of -4 (or decrement of +4)
+
+Correct way to call range, but no o/p:
+range(10, 10)
+range(0)
+range(20, 5)
+
+Incorrect way of calling range: (We get exception)
+range()
+range(10, 20, 'abc')
+range('abc')
+
+
+------------------------------------------------------
+
+The functions called via a objects is called method.
+map -> it accessses all the element one by one.
+
+------------------------------------------------------
+pysql -> allows python communicate with mysql.
+
+EXCEPTION: 
+instruction is trying to execute, but cannot.
+in memory the object of the particular exception class is created,  if nobody catches the error the python virtual manager[PVM] catches it.
+
+except TypeError:     #child class(specialised class)
+    Pass
+except :              #parent class(generalised class)
+    Pass      
+
+throws : where the particular will not handle the exception and propagates some other except to handle that error
+
+
+
+Keywords used in EXCEPTION:
+-> try
+-> raise
+-> throws
+-> except
+classes: EXCEPTION, ValueError, TypeError
