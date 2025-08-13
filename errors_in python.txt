@@ -1,0 +1,9 @@
+ERRORS:
+->SyntaxError
+
+->NameError: when a variable is not defined
+
+->IndexError: if we tell the python to print the element which is out of index range
+
+->ValueError:when we try to cast some value into another type,but it not possible. \
+        ex: converting

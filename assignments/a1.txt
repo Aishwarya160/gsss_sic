@@ -1,0 +1,40 @@
+How floating point numbers are stored using IEEE standards?
+which are the two most important relational operators? 
+Learn output formatting in python
+why we do not have increments and decrement operators in python?
+learn about __main__
+what is pip3 and pythonic ?
+docx.python.org -> to learn python
+docx.oracle.com -> to learn java
+dev.mosilla     -> to learn html, css, js
+
+
+-----------------------------------------------------------------------------------------------------------------
+ASSIGNMENTS:
+
+DAY1:
+Conditional Programming:
+Tax Calculation problem.
+Farmer problem.
+* Student result problem
+* Check if a number is Perfect Square
+Check if a year is Leap year
+
+DAY2:
+Problems on Loops:
+* implement range function
+Accept the number of lines of the Shape and draw the following shapes:
+	1. X shape
+	2. Hollow square
+	3. X inside hollow square
+	4. Pascal Triangle
+	5. Rhombus
+Accept a number and implement following programs:
+	1. Find sum of Even placed digits
+	2. Find sum of Odd placed Even digits in the number
+	3. Find 2nd smallest digit in the number.
+	4. Find 2nd biggest digit and also check if 2nd biggest digit is not possible to be found.
+	5. Find sum of composite digits of the number.
+
+
+
