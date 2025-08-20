@@ -1,0 +1,16 @@
+Problem Statement:
+Accept a number from the user and find the next possible smallest number which is bigger than the given number having all the digits of the given number.
+
+example : 1.input : 67598; output : 67859             
+           2.input: 18932; output:19832; 19238
+           3.input: 13933; output: 19333
+           4.input: 76349 ; output:76394 
+           5.input:12142 ; output : 
+
+
+
+def next_bigger_number(num):
+ input_number = int(input("enter the number"))
+ 
+ 
+ 

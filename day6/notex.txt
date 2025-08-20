@@ -1,0 +1,28 @@
+FUNCTION STACK CALL
+How Functions works implicitly.
+
+
+SPECIAL PURPOSE REGISTERS :
+Accumalator : It is used to store intermediate results.
+MAR:
+MDR:
+IR : Instruction register -> It holds the address of the instructions that is currently running (getting executed).
+PC : Program Counter -> It holds address of the next instructions to be executed.
+SP : Stack Pointer -> It holds the address of teh top frame in the stack.
+FP : Frame Pointer -> It holds address of the frame of function which is currently running.
+Frame : A frame is memory allocated to a function during runtime.
+
+
+
+Contents of a Frame :
+       the local variables
+       the function arguments
+       linkages (address)
+
+
+
+
+algorithmn :
+1.need to count the number of braces using count variable.
+2.and place the bracket in such a way that opening bracket should be placed first.
+3.

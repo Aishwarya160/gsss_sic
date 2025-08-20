@@ -11,9 +11,19 @@ can we modify the list which is an element in an tuple?
 how to pass command line arguments into a my_range (function) ?
 why do argv[0] need  the file name ? what is the puprose and use?
 why there is no implicit typecasting in python ?
+good and not soo good examples for array/list
+learn about all the list methods.  [just give list1. in the vs code we will get all the list methods]
+why there is no index error in case of slicing? 
+to learn about all the string methods . [just give my_str.  in the vs code we will get the string methods] 
+why does empty string returns 0?
+learn pdb (python debugger) thorougly. [ command to run in cmd -> python -m pdb <filename> {{}}]
 
 
 
+
+
+
+n   
 
 
 
