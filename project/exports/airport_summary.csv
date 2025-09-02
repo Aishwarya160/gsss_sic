@@ -1,0 +1,12 @@
+OriginAirport,TotalFlights,DelayedFlights,PercentDelayed
+ATL,6,2.0,33.33333333333333
+BOS,2,0.0,0.0
+DFW,4,1.0,25.0
+JFK,8,3.0,37.5
+LAS,4,0.0,0.0
+LAX,11,7.0,63.63636363636363
+MIA,3,0.0,0.0
+ORD,5,3.0,60.0
+PHX,2,0.0,0.0
+SEA,1,0.0,0.0
+SFO,4,3.0,75.0

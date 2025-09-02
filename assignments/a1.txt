@@ -17,13 +17,23 @@ why there is no index error in case of slicing?
 to learn about all the string methods . [just give my_str.  in the vs code we will get the string methods] 
 why does empty string returns 0?
 learn pdb (python debugger) thorougly. [ command to run in cmd -> python -m pdb <filename> {{}}]
-solve carpekar's problem. [6174]
+Solve carpekar's problem. [6174]
+learn about cohesive.[ tight coupling, loose coupling ]
 
 
 
 
 
-n   
+
+
+
+
+
+
+
+
+
+
 
 
 

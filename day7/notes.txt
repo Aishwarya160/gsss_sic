@@ -1,0 +1,13 @@
+Project Title
+Project decription (few sentences or 4 to 6 lines)
+(Team Member details)
+Index
+Detailed explanation (Overview -> Each use-case explanation)
+Optionally (Algorithms)
+UML diagrams (use-case, activity, data-flow)
+Front-end (interface) design
+Code
+Explanation of the Code
+Screenshots of the O/P with explanation
+Closure (Bibliography)
+-------------------------------------------------------------

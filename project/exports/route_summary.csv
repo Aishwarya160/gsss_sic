@@ -1,0 +1,6 @@
+OriginAirport,DestinationAirport,AverageDelay,TotalFlights
+LAX,JFK,89.16666666666667,3
+SFO,JFK,72.5,2
+JFK,MIA,62.5,1
+LAX,SEA,57.5,1
+LAX,ATL,52.5,1
